@@ -1,0 +1,9 @@
+{
+	"name": "datafactorybaole",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "949bdf48-1bee-4656-9c09-767b1836ba8c",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
